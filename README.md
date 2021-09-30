@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin MVVM Architecture
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 yustar.shooter@gmail.com
 
 <!---
 yuzutaru/yuzutaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
