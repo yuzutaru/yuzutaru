@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuzutaru
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin MVVM Architecture
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 yustar.shooter@gmail.com
 
