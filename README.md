@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yuzutaru
+<!--- - 👋 Hi, I’m @yuzutaru --->
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 yustar.shooter@gmail.com
+<!--- - 💞️ I’m looking to collaborate on ...
+- 📫 yustar.shooter@gmail.com --->
 
 <!---
 yuzutaru/yuzutaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
