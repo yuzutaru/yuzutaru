@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,git,github,gitlab,gradle,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,idea,git,github,gitlab,gradle&theme=light)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuzutaru&show_icons=true&locale=en&layout=compact" alt="yuzutaru" /></p>
 
