@@ -1,14 +1,10 @@
-<h1 align="center">Hello 👋, I'm Yustar</h1>
-<h3 align="center">Android developer from Indonesia</h3>
-<br>
+🚀 Senior Android Developer with over 10 years of experience building mobile apps for banking, finance, wellness, and enterprise solutions.
 
-<h3 align="left">Overview:</h3>
-<!--- - 👋 Hi, I’m @yuzutaru --->
-- :computer: Currently working remotely from home <br>
-- 👀 I’m interested in Android Development <br>
-- 🌱 I’m currently learning <br>
-<!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 yustar.shooter@gmail.com  
+Skilled in Kotlin, Jetpack Compose, Coroutines, Flow, MVVM, and Clean Architecture, with hands-on experience in Paging 3, Room, and Retrofit integration.
+
+I’ve collaborated with cross-functional teams to deliver stable, maintainable, and user-friendly mobile applications, and have contributed to improving app performance and scalability in production environments.
+
+Passionate about writing clean, maintainable code and delivering features that align with both user needs and business goals.
 
 <!---
 yuzutaru/yuzutaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
