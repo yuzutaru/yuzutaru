@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,swift,git,github,gitlab,gradle,idea&theme=dark)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats-neon-chi-29.vercel.app/api/top-langs/?username=yuzutaru&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats-neon-chi-29.vercel.app/api/top-langs/?username=yuzutaru&count_private=true&show_icons=true&locale=en&layout=compact&theme=dark)
 
-[![Anurag's GitHub stats](https://github-readme-stats-neon-chi-29.vercel.app/api?username=yuzutaru&show_icons=true&locale=en&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-neon-chi-29.vercel.app/api?username=yuzutaru&count_private=true&show_icons=true&locale=en&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yuzutaru&theme=dark)](https://git.io/streak-stats)
