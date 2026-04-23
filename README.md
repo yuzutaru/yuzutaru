@@ -92,15 +92,9 @@ I can help with:
 [![Anurag's GitHub stats](https://github-readme-stats-neon-chi-29.vercel.app/api?username=yuzutaru&count_private=true&show_icons=true&locale=en&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!---
-yuzutaru/yuzutaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br>
-
-<!--- skillicons.dev --->
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?=kotlin,java,swift,git,github,gitlab,gradle,idea&theme=dark)](https://skillicons.dev)
-
 <!--- streak-stats.demolab.com --->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yuzutaru&theme=dark)](https://git.io/streak-stats)
+
+<!--- skillicons.dev --->
+## Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,swift,git,github,gitlab,gradle,idea&theme=dark)](https://skillicons.dev)
