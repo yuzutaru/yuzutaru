@@ -3,13 +3,94 @@
 
 ![Tokscale Tokens](https://tokscale.ai/api/badge/yuzutaru/svg)
 
-🚀 Senior Android Developer with over 10 years of experience building mobile apps for banking, finance, wellness, and enterprise solutions.
+# 👋 Hi, I’m Yustar Pramudana
 
-Skilled in Kotlin, Jetpack Compose, Coroutines, Flow, MVVM, and Clean Architecture, with hands-on experience in Paging 3, Room, and Retrofit integration.
+Senior Mobile Engineer (Android & iOS)
 
-I’ve collaborated with cross-functional teams to deliver stable, maintainable, and user-friendly mobile applications, and have contributed to improving app performance and scalability in production environments.
+I build production-ready mobile apps with a focus on performance, scalability, and clean architecture.  
+Experienced in delivering real-world applications for banking, startups, and international teams.
 
-Passionate about writing clean, maintainable code and delivering features that align with both user needs and business goals.
+---
+
+## 🚀 What I Do
+
+- Develop Android apps using **Kotlin + Jetpack Compose**
+- Build iOS apps using **SwiftUI**
+- Design scalable architectures (**MVVM, Clean Architecture**)
+- Implement **offline-first systems** and efficient data syncing
+- Collaborate closely with backend teams (APIs, real-time data)
+- Maintain, refactor, and modernize legacy codebases
+
+---
+
+## 🛠 Tech Stack
+
+**Mobile**
+- Kotlin, Jetpack Compose
+- SwiftUI
+
+**Architecture**
+- MVVM, Clean Architecture
+- Paging 3, Room, RemoteMediator
+
+**Backend & Integration**
+- REST APIs
+- Supabase / Firebase
+
+**Tools**
+- Git, CI/CD pipelines
+- Android Studio, Xcode
+
+---
+
+## ⚡ Workflow
+
+- AI-assisted development (Claude, Gemini, Codex)
+- Fast implementation from Figma / design systems
+- Focus on clean, maintainable, and scalable code
+- Strong emphasis on performance and user experience
+
+---
+
+## 💼 Experience Highlights
+
+- 10+ years in mobile development
+- Experience in **banking and enterprise applications**
+- Worked with international teams (Singapore, Philippines)
+- Delivered production apps used by real users
+- Comfortable working independently or in teams
+
+---
+
+## 📌 Current Focus
+
+- Building high-quality mobile apps (Android & iOS)
+- Expanding backend integration skills (Supabase, APIs)
+- Improving development speed using AI tools
+
+---
+
+## 🤝 Let’s Work
+
+I’m open to long-term freelance or remote opportunities.
+
+I can help with:
+- Full mobile app development (Android / iOS)
+- Feature development & scaling
+- App modernization (legacy → modern architecture)
+- UI implementation from design
+
+📫 Feel free to reach out or connect
+
+---
+
+## 📊 GitHub Stats
+
+<!--- github-readme-stats --->
+![Top Langs](https://github-readme-stats-neon-chi-29.vercel.app/api/top-langs/?username=yuzutaru&count_private=true&show_icons=true&locale=en&layout=compact&theme=dark)
+
+[![Anurag's GitHub stats](https://github-readme-stats-neon-chi-29.vercel.app/api?username=yuzutaru&count_private=true&show_icons=true&locale=en&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 yuzutaru/yuzutaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +100,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- skillicons.dev --->
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,swift,git,github,gitlab,gradle,idea&theme=dark)](https://skillicons.dev)
-
-<!--- github-readme-stats --->
-![Top Langs](https://github-readme-stats-neon-chi-29.vercel.app/api/top-langs/?username=yuzutaru&count_private=true&show_icons=true&locale=en&layout=compact&theme=dark)
-
-[![Anurag's GitHub stats](https://github-readme-stats-neon-chi-29.vercel.app/api?username=yuzutaru&count_private=true&show_icons=true&locale=en&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?=kotlin,java,swift,git,github,gitlab,gradle,idea&theme=dark)](https://skillicons.dev)
 
 <!--- streak-stats.demolab.com --->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yuzutaru&theme=dark)](https://git.io/streak-stats)
