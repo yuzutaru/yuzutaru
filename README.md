@@ -21,3 +21,7 @@ You can click the Preview link to take a look at your changes.
 [![Anurag's GitHub stats](https://github-readme-stats-neon-chi-29.vercel.app/api?username=yuzutaru&count_private=true&show_icons=true&locale=en&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yuzutaru&theme=dark)](https://git.io/streak-stats)
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/yuzutaru/svg)](https://tokscale.ai/u/yuzutaru)
+
+![Tokscale Tokens](https://tokscale.ai/api/badge/yuzutaru/svg)
