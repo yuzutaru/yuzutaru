@@ -32,7 +32,7 @@ Experienced in delivering real-world applications for banking, startups, and int
 **Architecture**
 - MVVM, Clean Architecture
 - Flow, Coroutine, Room, Hilt
-- Swift Async Streams, Swift Concurrency, Core Data
+- Swift Async Streams, Concurrency, Core Data
 
 **Backend & Integration**
 - REST APIs
