@@ -14,8 +14,8 @@ Experienced in delivering real-world applications for banking, startups, and int
 
 ## 🚀 What I Do
 
-- Develop Android apps using **Kotlin + Jetpack Compose**
-- Build iOS apps using **SwiftUI**
+- Develop Android apps using **Android (Kotlin + Jetpack Compose)**
+- Build iOS apps using **IOS (SwiftUI)**
 - Design scalable architectures (**MVVM, Clean Architecture**)
 - Implement **offline-first systems** and efficient data syncing
 - Collaborate closely with backend teams (APIs, real-time data)
@@ -26,20 +26,24 @@ Experienced in delivering real-world applications for banking, startups, and int
 ## 🛠 Tech Stack
 
 **Mobile**
-- Kotlin, Jetpack Compose
-- SwiftUI
+- Android (Kotlin, Jetpack Compose)
+- IOS (SwiftUI)
 
 **Architecture**
 - MVVM, Clean Architecture
-- Paging 3, Room, RemoteMediator
+- Flow, Coroutine, Room, Hilt
+- Swift Async Streams, Swift Concurrency, Core Data
 
 **Backend & Integration**
 - REST APIs
 - Supabase / Firebase
 
 **Tools**
-- Git, CI/CD pipelines
+- Git
 - Android Studio, Xcode
+- Claude Code
+- Gemini / Antigravity
+- Codex
 
 ---
 
@@ -56,7 +60,7 @@ Experienced in delivering real-world applications for banking, startups, and int
 
 - 10+ years in mobile development
 - Experience in **banking and enterprise applications**
-- Worked with international teams (Singapore, Philippines)
+- Worked with international teams (Singapore, Philippines, Australia)
 - Delivered production apps used by real users
 - Comfortable working independently or in teams
 
