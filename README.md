@@ -91,7 +91,7 @@ I can help with:
 ## 📊 GitHub Stats
 
 <!--- github-readme-stats --->
-![Top Langs](https://github-readme-stats-neon-chi-29.vercel.app/api/top-langs/?username=yuzutaru&count_private=true&show_icons=true&locale=en&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-neon-chi-29.vercel.app/api/top-langs/?username=yuzutaru&count_private=true&show_icons=true&locale=en&layout=compact&theme=dark&v1)
 
 [![Anurag's GitHub stats](https://github-readme-stats-neon-chi-29.vercel.app/api?username=yuzutaru&count_private=true&show_icons=true&locale=en&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
