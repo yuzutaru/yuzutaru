@@ -1,8 +1,3 @@
-<!--- Tokscale --->
-[![Tokscale Stats](https://tokscale.ai/api/embed/yuzutaru/svg)](https://tokscale.ai/u/yuzutaru)
-
-![Tokscale Tokens](https://tokscale.ai/api/badge/yuzutaru/svg)
-
 # 👋 Hi, I’m Yustar Pramudana
 
 Senior Mobile Engineer (Android & iOS)
@@ -102,3 +97,8 @@ I can help with:
 <!--- skillicons.dev --->
 ## Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,swift,git,github,gitlab,gradle,idea&theme=dark)](https://skillicons.dev)
+
+<!--- Tokscale --->
+[![Tokscale Stats](https://tokscale.ai/api/embed/yuzutaru/svg)](https://tokscale.ai/u/yuzutaru)
+
+![Tokscale Tokens](https://tokscale.ai/api/badge/yuzutaru/svg)
